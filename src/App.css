@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.my-class {
+  background-color: black;
+}
+.btn-class {
+  font-weight: bold;
+  border: 0;
+  border-radius: 25px;
+  padding: 1.5rem 2rem;
+  background-color: yellowgreen;
+}
